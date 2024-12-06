@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: whitesmoke;
+  font-family: "Schibsted Grotesk", sans-serif;
+}
+
+main {
+  background-image: radial-gradient(circle, #000A5C, #00073A);
+  box-shadow: 0 2px 20px 0 #EFD6AC;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 3rem;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.newItemEntry,
+.listContainer {
+  display: grid;
+  place-content: center;
+}
