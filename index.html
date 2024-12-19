@@ -12,10 +12,10 @@
 
 <body>
   <main>
-    <h1 class="offscreen">My List App 📋</h1>
+      <h1 class="app-title">CheckIt ☑️</h1>
+      <br/>
 
     <section class="newItemEntry">
-      <h2 class="offscreen">Create New Entry</h2>
       <form class="newItemEntry__form" id="itemEntryForm">
         <label for="newItem" class="offscreen">Enter a new task to complete</label>
         <input class="newItemEntry__input" id="newItem" type="text" maxlength="40" autocomplete="off"
@@ -28,30 +28,15 @@
 
     <section class="listContainer">
       <header class="listTitle">
-        <h2 id="listName">My List 📋</h2>
+        <h2 id="listName">My List</h2>
         <button id="clearItemsButton" class="button listTitle__button" title="Clear the list"
           aria-label="Remove all items from the list">
           Clear List
         </button>
       </header>
       <hr />
-      <ul id="listItems">
-        <!-- <li class="item">
-                    <input type="checkbox" id="1">
-                    <label for="1">eat</label>
-                    <button class="button">X</button>
-                </li>
-                <li class="item">
-                    <input type="checkbox" id="2">
-                    <label for="2">sleep</label>
-                    <button class="button">X</button>
-                </li>
-                <li class="item">
-                    <input type="checkbox" id="3">
-                    <label for="3">code</label>
-                    <button class="button">X</button>
-                </li> -->
-      </ul>
+        <ul id="listItems">
+        </ul>
     </section>
   </main>
 </body>
