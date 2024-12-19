@@ -7,6 +7,19 @@
 
 -----
 
+
+## What Tech Stack Does This Project Use?
+
+This project will use the following tech stack:
+
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> 
+
+
+-----
+
+
 ## Features of CheckIt
 
 This app contains basic features for a to-do app. Here are the functionalities below:
