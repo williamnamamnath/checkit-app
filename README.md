@@ -1,7 +1,5 @@
 # CheckIt ☑️
 
-## Welcome to CheckIt, a to-do app with a particular focus on TypeScript. 
-
 ![app-screenshot](https://github.com/user-attachments/assets/544ed9ef-14c4-43e5-bb4a-2e696d79a77f)
 
 
@@ -16,6 +14,7 @@ This project will use the following tech stack:
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> 
 
+This app was inspired by [Dave Gray's tutorial](https://youtu.be/61v23Ce5SXA?si=l3i8fLK6UFWL_zDL).
 
 -----
 
